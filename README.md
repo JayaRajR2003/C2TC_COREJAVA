@@ -1,4 +1,6 @@
 # C2TC_COREJAVA
+
+# 💫 About Me:
 - 👋 Hi, I’m @JayaRajR2003
 - 👀 I’m interested in mathematics. 
 - 🌱 I’m currently learning Java Full Stack. 
@@ -9,16 +11,7 @@
 - ⚡ Fun fact:"Did you know? 🌱 Smart farming can increase crop yields
       by up to 30%! By leveraging data-driven insights, we’re helping
       farmers make better decisions to grow more while using less."
-    
-
-<!---
-JayaRajR2003/JayaRajR2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# 💫 About Me:
-👋 Hi, I’m @JayaRajR2003<br>👀 I’m interested in mathematics.<br>🌱 I’m currently learning Java Full Stack.<br>💞️ I’m ready to work hard to gain more knowledge <br>      and eager to learn new things.<br>📫 How to reach me: jayarajr200903@gmail.com<br>😄 he/him<br>⚡ Fun fact: "Did you know? 🌱 Smart farming can increase crop yields <br>      by up to 30%! By leveraging data-driven insights, we’re helping farmers<br>      make better decisions to grow more while using less."
-
-
+  
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Jaya Raj R) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jaya Raj R) 
 
@@ -39,3 +32,9 @@ You can click the Preview link to take a look at your changes.
 [![](https://visitcount.itsvg.in/api?id=JayaRajR2003&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<!---
+JayaRajR2003/JayaRajR2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
