@@ -9,7 +9,6 @@ public class FinalVariable {
 
 	// Declare & initialize static final variable.
 	final static int Z = 10;
-
 	// instance method
 	void change() {
 		//x = 30; // final variables can't be reassigned

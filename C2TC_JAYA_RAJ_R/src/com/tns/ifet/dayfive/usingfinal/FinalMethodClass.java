@@ -12,6 +12,5 @@ public class FinalMethodClass {
 	final void show() {
 		System.out.println("Value of a: " + a);
 	}
-	
 
 }
