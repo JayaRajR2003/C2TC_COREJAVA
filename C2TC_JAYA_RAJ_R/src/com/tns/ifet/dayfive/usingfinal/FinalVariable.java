@@ -15,7 +15,6 @@ public class FinalVariable {
 		//x = 30; // final variables can't be reassigned
 		//Y = 200; // final static variables can't be reassigned
 	}
-
 	@Override
 	public String toString() {
 		return "FinalVariable [x=" + x + ", Y" + Y + "]";
