@@ -6,7 +6,7 @@ public class MyClassDemo {
 		MyClass o1 = new MyClass();
 		System.out.println(o1);
 
-		// static method with class name
+		 // static method with class name
 		MyClass.display();
 
 		MyClass o2 = new MyClass();

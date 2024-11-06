@@ -6,7 +6,7 @@ public class Employee {
 		private String name;
 		private int id;
 		
-		// Declare a static variable companyName with data type String and assign value
+		 // Declare a static variable companyName with data type String and assign value
 		// TNS which is common for all the objects.
 		static String companyName = "TNS";
 

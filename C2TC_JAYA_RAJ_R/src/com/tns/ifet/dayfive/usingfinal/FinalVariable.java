@@ -12,7 +12,7 @@ public class FinalVariable {
 	// instance method
 	void change() {
 		//x = 30; // final variables can't be reassigned
-		//Y = 200; // final static variables can't be reassigned
+		//Y = 200; // final  static variables can't be reassigned
 	}
 	@Override
 	public String toString() {

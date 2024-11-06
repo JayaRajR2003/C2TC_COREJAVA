@@ -6,7 +6,7 @@ final class FinalClass {
 	}
 }
 
-	//can't create child classes from Final class, Ex: String, Wrapper Classes, System, Scanner, Number are Final classes
+ 	//can't create child classes from Final class, Ex: String, Wrapper Classes, System, Scanner, Number are Final classes
 //class FinalChildClass extends FinalClass {}
 
 	public class FinalClassDemo {
